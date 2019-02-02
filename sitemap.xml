@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://yoursite-url/post-sitemap.xml</loc>
+        <loc>http://laughter-tmy.github.io/post-sitemap.xml</loc>
         <lastmod>2019-01-28T10:28:23.317Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/page-sitemap.xml</loc>
+        <loc>http://laughter-tmy.github.io/page-sitemap.xml</loc>
         <lastmod>2019-01-28T10:28:23.943Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/tag-sitemap.xml</loc>
+        <loc>http://laughter-tmy.github.io/tag-sitemap.xml</loc>
         <lastmod>2019-01-28T10:28:23.317Z</lastmod>
     </sitemap>
 
